@@ -163,7 +163,7 @@ if (empty($filter_mapel) && !empty($daftar_mapel)) {
             // Menampilkan hasil dalam bentuk tabel
             echo '<table>
                     <tr>
-                        <th class="nomor-col">Nor</th>
+                        <th class="nomor-col">No</th>
                         <th class="soal-col">Soal</th>
                         <th class="jawaban-col">Jawaban</th>
                     </tr>';
