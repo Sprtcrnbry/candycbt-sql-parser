@@ -119,7 +119,7 @@ if (empty($filter_mapel) && !empty($daftar_mapel)) {
     <div class="container">
         <div class="form-group">
             <form method="get" action="">
-                <label>Pilih Mata Pelajaran: </label>
+                <label>Pilih Mapel: </label>
                 <select name="id_mapel" onchange="this.form.submit()">
                     <?php
                     // Tampilkan semua mata pelajaran dalam dropdown
